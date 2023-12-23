@@ -1,0 +1,7 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-weather-home',
+  templateUrl: './weather-home.component.html',
+})
+export class WeatherHomeComponent {}
