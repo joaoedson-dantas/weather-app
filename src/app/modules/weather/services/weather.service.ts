@@ -18,4 +18,4 @@ export class WeatherService {
   }
 }
 
-// Observable -> precisamos nos inscrever nesse observador para que seja possível ter acesso aos dados.
+
